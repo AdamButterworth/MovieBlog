@@ -18,6 +18,6 @@
     "express-validator": "5.x",
     "moment": "*",
     "mongoose": "*",
-    "pug": "^2.0.0-beta6"
+    "pug": "^3.0.1"
   }
 }
